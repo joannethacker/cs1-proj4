@@ -1,0 +1,7 @@
+# Compiled Java binaries
+*.class
+bin/
+
+# Temporary/OS files
+.DS_Store
+Thumbs.db

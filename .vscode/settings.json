@@ -1,0 +1,8 @@
+{
+  "java.server.launchMode": "Standard",
+  "[java]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.inlayHints.enabled": "off"
+  }
+}
